@@ -1,5 +1,6 @@
 import React from 'react'
+import Home from './pages/home'
 
 export default function App () {
-  return <h1>Ola mundo</h1>
+  return <Home />
 }
